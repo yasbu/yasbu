@@ -1,6 +1,6 @@
 [![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/676/547/desktop-wallpaper-data-science-data.jpg)
-<h1 align="center">Hi 👋, I'm Yasin Burak Aydın</h1>
-<h3 align="center">A passionate data scientist from Turkey</h3>
+<h1 align="center">Hi 👋 I'm Yasin Burak Aydın</h1>
+<h3 align="center">A passionate data analyst from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
